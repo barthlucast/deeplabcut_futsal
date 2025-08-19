@@ -1,1 +1,5 @@
 # APPLICATION OF THE DEEPLABCUT TOOLBOX IN FUTSAL
+
+<p align="left">This study evaluated the applicability of DeepLabCut, a deep learning-based pose estimation tool, for tracking players and the ball in 2v2 futsal matches. Aerial footage recorded by a drone was used, and the model was trained using the ResNet-50 architecture on a manually labelled dataset. Accuracy was assessed through the mean Euclidean error between manual annotations and network predictions, with satisfactory results despite real-world recording conditions. A perspective transformation was applied to correct geometric distortions in the footage, enabling analysis in real-world metric coordinates. Likelihood-based and range threshold filters were used to refine the dataset by removing uncertain or implausible predictions. Despite challenges such as tracking loss due to poor colour contrast, the findings demonstrate the feasibility of using DeepLabCut for performance and tactical analysis in team sports using affordable and replicable tools.</p>
+
+###
